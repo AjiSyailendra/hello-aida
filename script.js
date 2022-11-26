@@ -89,6 +89,7 @@ Swal.fire({
                     imageWidth: 250,
                     imageHeight: 250,
                     color: "#716add",
+                    showConfirmButton: false,
                     backdrop: `
     rgba(0,0,123,0.4)
     url("/images/nyan-cat.gif")
